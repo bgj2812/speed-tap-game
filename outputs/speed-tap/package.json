@@ -1,0 +1,12 @@
+{
+  "name": "speed-tap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A real-time reaction game for friends",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
